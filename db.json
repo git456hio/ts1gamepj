@@ -3,10 +3,10 @@
         "code": "200",
         "message": "true",
         "project": "Jogo Slots",
-        "version": "0",
+        "version": "1",
         "versionName": "1.0.0",
         "data": {
-            "is": 1,
+            "is": 0,
             "Areacode": "bz",
             "sdkversion": 32
         }
